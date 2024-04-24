@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sownatta" alt="sownatta" /></a> </p>
 
-Dev Júnior em busca de minha primeira oportunidade como desenvolvedor. Estou focado em aprimorar minhas habilidades em Javascript e em me tornar um desenvolvedor Full Cycle.
+Junior Developer seeking my first opportunity as a developer. I'm focused on enhancing my skills in Javascript and becoming a Full Cycle developer.
 
-Iniciei minha jornada como desenvolvedor em 2018, na Cesar School, onde estudei por um ano e tive a oportunidade de estagiar a partir do segundo período. Durante meu estágio, fui introduzido à área do desenvolvimento web, a qual despertou grande interesse em mim.
+I began my journey as a developer in 2018 at Cesar School, where I studied for a year and had the opportunity to intern from the second semester. During my internship, I was introduced to the web development field, which sparked great interest in me.
 
-A partir desse momento, continuei meus estudos de forma independente, com o objetivo de me tornar um desenvolvedor fullstack. Em 2023, fui selecionado para participar da formação Vem Ser Tech, da Ada Tech em parceria com o iFood, na trilha de Backend. Lá, pude preencher todas as lacunas de conhecimento sobre o processo de desenvolvimento de aplicações, utilizando Node.js, TypeScript, Express, MySQL, POO e realizando testes automatizados.
+From that moment on, I continued my studies independently with the goal of becoming a fullstack developer. In 2023, I was selected to participate in the Vem Ser Tech program, by Ada Tech in partnership with iFood, in the Backend track. There, I was able to fill in all the knowledge gaps about the application development process, using Node.js, TypeScript, Express, MySQL, OOP, and performing automated tests.
 
-Além disso, tive a oportunidade de participar de um hackathon, o AdaHack, onde minha equipe conquistou o segundo lugar.
+Additionally, I had the opportunity to participate in a hackathon, AdaHack, where my team secured second place.
 
 ## Language and Tools
 <p align="center">
