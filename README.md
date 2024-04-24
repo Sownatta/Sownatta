@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sownatta" alt="sownatta" /></a> </p>
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/wilsonn-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilsonn-rocha" height="30" width="40"/></a>
-<a href="wilsonn.rocha@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white.svg" alt="wilsonn-rocha" height="30" width="150" /></a>
-</p>
+Dev Júnior em busca de minha primeira oportunidade como desenvolvedor. Estou focado em aprimorar minhas habilidades em Javascript e em me tornar um desenvolvedor Full Cycle.
 
-### Language and Tools
+Iniciei minha jornada como desenvolvedor em 2018, na Cesar School, onde estudei por um ano e tive a oportunidade de estagiar a partir do segundo período. Durante meu estágio, fui introduzido à área do desenvolvimento web, a qual despertou grande interesse em mim.
+
+A partir desse momento, continuei meus estudos de forma independente, com o objetivo de me tornar um desenvolvedor fullstack. Em 2023, fui selecionado para participar da formação Vem Ser Tech, da Ada Tech em parceria com o iFood, na trilha de Backend. Lá, pude preencher todas as lacunas de conhecimento sobre o processo de desenvolvimento de aplicações, utilizando Node.js, TypeScript, Express, MySQL, POO e realizando testes automatizados.
+
+Além disso, tive a oportunidade de participar de um hackathon, o AdaHack, onde minha equipe conquistou o segundo lugar.
+
+## Language and Tools
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="margin: 0 7px 0 7px">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" style="margin: 0 7px 0 7px">
@@ -27,4 +29,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sownatta&show_icons=true&locale=en" alt="Sownatta-Github_Stats" height="150" width="250"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sownatta&" alt="Sownatta-Github_Stats2" height="150" width="260"/>
+</p>
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/wilsonn-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilsonn-rocha" height="30" width="40"/></a>
+<a href="wilsonn.rocha@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white.svg" alt="wilsonn-rocha" height="30" width="150" /></a>
 </p>
