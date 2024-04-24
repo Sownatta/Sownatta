@@ -10,7 +10,7 @@
 </p>
 
 ### Language and Tools
-<p align="center">
+<p align="center" style="margin-bottom: 50px">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="margin: 0 7px 0 7px">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40" style="margin: 0 7px 0 7px">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="50" style="margin: 0 7px 0 7px">
